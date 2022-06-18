@@ -11,10 +11,10 @@
 💛   
 💚   
 
-### Homepage
+### Blog
 
 💙   
-💜 https://greeksharifa.github.io/
+💜 [Jae's Blog](https://pnut2357.github.io/categories/)
 
 <div align=center>
 
