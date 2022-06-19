@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[About Me](https://pnut2357.github.io/about/)
 
 ### Jae Choi 🔭
 Data scientist mainly in ML and back-end software engineering, obtained a master degree specializing in Artificial Intelligence and a certificate in data science, and explored these engineering techniques for real-world applications. My desire of deeper understanding and applying my knowledge accelerates my growth. 
