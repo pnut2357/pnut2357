@@ -7,7 +7,7 @@ Data scientist mainly in ML and back-end software engineering, obtained a master
 
 Technologies/Skills: Machine Learning, Deep Learning, Recommender System, Computer Vision, Natural Language Processing, Robotics, RESTful API, seamless CI/CD, shell scripting, test plan, Kubernetes, ML architecture design & Build, Python, Java, Databricks, SQL (Azure SQL, BigQuery, PostgreSQL and MySQL), Azure, GCP, AWS, Hadoop, Spark, SK-learn, Tensorflow, OpenCV, BERT, and Transformer.
 
-I’d love to chat further about a Machine Learning Engineer / Data Science role, please feel free to reach me on jaehyuk0325@gmail.com
+I’d love to chat further about a Machine Learning Engineer / Data Science role, please feel free to reach me on jae.hyuk.choi.0325@gmail.com
 
 
 ### Field of Study
